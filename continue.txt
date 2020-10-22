@@ -1,0 +1,9 @@
+be tartib:
+https://openmaptiles.org/docs/website/leaflet/
+https://leafletjs.com/examples.html
+https://www.mapbox.com/maps
+https://docs.mapbox.com/help/how-mapbox-works/
+https://docs.mapbox.com/mapbox-tiling-service/overview/
+https://docs.mapbox.com/mapbox-gl-js/api/
+https://docs.mapbox.com/api/maps/
+mapbox://styles/vohece1723/ckgkkgqq51yyu1anmc2dk1d8d
